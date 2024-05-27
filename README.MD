@@ -1,6 +1,6 @@
 # Wasmo
 
-Wasmo is a set of tools for Golang-Wasm projects
+Wasmo is a set of tools / functions / utils for Golang-Wasm projects
 
 ## LinkVar
 ```
